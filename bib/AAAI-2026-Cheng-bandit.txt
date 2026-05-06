@@ -1,0 +1,7 @@
+@inproceedings{cheng2026offline,
+  title     = {Offline Multi-Objective Bandits: From Logged Data to Pareto-Optimal Policies},
+  author    = {Cheng, Ji and Lai, Song and Yao, Shunyu and Xue, Bo},
+  booktitle = {Proceedings of the 40th AAAI Conference on Artificial Intelligence},
+  pages     = {36636 -- 36644},
+  year      = {2026}
+}

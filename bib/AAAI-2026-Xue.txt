@@ -1,0 +1,7 @@
+@inproceedings{xue2026beyond,
+  title     = {Beyond the Lower Bound: Bridging Regret Minimization and Best Arm Identification in Lexicographic Bandits},
+  author    = {Xue, Bo and Wan, Yuanyu and Lu, Zhichao and Zhang, Qingfu},
+  booktitle = {Proceedings of the 40th AAAI Conference on Artificial Intelligence},
+  pages     = {27414 -- 27422},
+  year      = {2026}
+}

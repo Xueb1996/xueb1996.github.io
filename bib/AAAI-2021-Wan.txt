@@ -1,0 +1,7 @@
+@inproceedings{wan2021projection,
+  title     = {Projection-free Online Learning in Dynamic Environments},
+  author    = {Wan, Yuanyu and Xue, Bo and Zhang, Lijun},
+  booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence},
+  pages     = {10067--10074},
+  year      = {2021}
+}

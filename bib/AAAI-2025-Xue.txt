@@ -1,0 +1,7 @@
+@inproceedings{xue2025multiple,
+  title     = {Multiple Trade-offs: An Improved Approach for Lexicographic Linear Bandits},
+  author    = {Xue, Bo and Lin, Xi and Zhang, Xiaoyuan and Zhang, Qingfu},
+  booktitle = {Proceedings of the 39th AAAI Conference on Artificial Intelligence},
+  pages     = {21850--21858},
+  year      = {2025}
+}

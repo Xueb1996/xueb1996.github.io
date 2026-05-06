@@ -1,0 +1,7 @@
+@inproceedings{xue2023efficient,
+  title     = {Efficient Algorithms for Generalized Linear Bandits with Heavy-tailed Rewards},
+  author    = {Xue, Bo and Wang, Yimu and Wan, Yuanyu and Yi, Jinfeng and Zhang, Lijun},
+  booktitle = {Advances in Neural Information Processing Systems 36},
+  pages     = {70880--70891},
+  year      = {2023}
+}

@@ -1,0 +1,7 @@
+@inproceedings{yang2025safe,
+  title     = {Safe Online Convex Optimization with Heavy-Tailed Observation Noises},
+  author    = {Yang, Yunhao and Xue, Bo and Hao, Yunzhi and Li, Ying and Wan, Yuanyu},
+  booktitle = {Proceedings of the 39th AAAI Conference on Artificial Intelligence},
+  pages     = {22047--22055},
+  year      = {2025}
+}

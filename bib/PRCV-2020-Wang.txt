@@ -1,0 +1,7 @@
+@inproceedings{wang2020piecewise,
+  title     = {Piecewise Hashing: A Deep Hashing Method for Large-Scale Fine-Grained Search},
+  author    = {Wang, Yimu and Wei, Xiu-Shen and Xue, Bo and Zhang, Lijun},
+  booktitle = {Proceedings of the 3rd Chinese Conference on Pattern Recognition and Computer Vision},
+  pages     = {432--444},
+  year      = {2020}
+}

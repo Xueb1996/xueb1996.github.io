@@ -1,0 +1,7 @@
+@inproceedings{xue2026safe,
+  title     = {Safe Multi-Objective Linear Bandits with Hierarchical Preferences},
+  author    = {Xue, Bo and He, Mengxia and Liu, Yilu and Cheng, Ji and Zhao, Zhe and Zhang, Qingfu},
+  booktitle = {Proceedings of the 35th International Joint Conference on Artificial Intelligence},
+  pages     = {to appear},
+  year      = {2026}
+}

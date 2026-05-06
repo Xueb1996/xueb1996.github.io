@@ -1,0 +1,7 @@
+@inproceedings{xue2025multiobjective,
+  title     = {Multi-objective Linear Reinforcement Learning with Lexicographic Rewards},
+  author    = {Xue, Bo and Bu, Dake and Cheng, Ji and Wan, Yuanyu and Zhang, Qingfu},
+  booktitle = {Proceedings of the 42nd International Conference on Machine Learning},
+  pages = {70065 -- 70085},
+  year      = {2025}
+}

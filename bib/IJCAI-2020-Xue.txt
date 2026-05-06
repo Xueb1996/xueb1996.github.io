@@ -1,0 +1,7 @@
+@inproceedings{xue2020nearly,
+  title     = {Nearly Optimal Regret for Stochastic Linear Bandits with Heavy-Tailed Payoffs},
+  author    = {Xue, Bo and Wang, Guanghui and Wang, Yimu and Zhang, Lijun},
+  booktitle = {Proceedings of the 29th International Joint Conference on Artificial Intelligence},
+  pages     = {2936--2942},
+  year      = {2020}
+}

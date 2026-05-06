@@ -1,0 +1,7 @@
+@inproceedings{cheng2025multiobjective,
+  title     = {Multi-Objective Neural Bandits with Random Scalarization},
+  author    = {Cheng, Ji and Xue, Bo and Lu, Chengyu and Cui, Ziqiang and Zhang, Qingfu},
+  booktitle = {Proceedings of the 34th International Joint Conference on Artificial Intelligence},
+  pages     = {4914--4922},
+  year      = {2025}
+}

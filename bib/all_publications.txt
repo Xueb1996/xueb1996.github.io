@@ -1,0 +1,194 @@
+@inproceedings{wan2021projection,
+  title     = {Projection-free Online Learning in Dynamic Environments},
+  author    = {Wan, Yuanyu and Xue, Bo and Zhang, Lijun},
+  booktitle = {Proceedings of the 35th AAAI Conference on Artificial Intelligence},
+  pages     = {10067--10074},
+  year      = {2021}
+}
+
+@inproceedings{cheng2024hierarchize,
+  title     = {Hierarchize Pareto Dominance in Multi-Objective Stochastic Linear Bandits},
+  author    = {Cheng, Ji and Xue, Bo and Yi, Jiaxiang and Zhang, Qingfu},
+  booktitle = {Proceedings of the 38th AAAI Conference on Artificial Intelligence},
+  pages     = {11489--11497},
+  year      = {2024}
+}
+
+@inproceedings{xue2024multiobjective,
+  title     = {Multiobjective Lipschitz Bandits under Lexicographic Ordering},
+  author    = {Xue, Bo and Cheng, Ji and Liu, Fei and Wang, Yimu and Zhang, Qingfu},
+  booktitle = {Proceedings of the 38th AAAI Conference on Artificial Intelligence},
+  pages     = {16238--16246},
+  year      = {2024}
+}
+
+@inproceedings{xue2025multiple,
+  title     = {Multiple Trade-offs: An Improved Approach for Lexicographic Linear Bandits},
+  author    = {Xue, Bo and Lin, Xi and Zhang, Xiaoyuan and Zhang, Qingfu},
+  booktitle = {Proceedings of the 39th AAAI Conference on Artificial Intelligence},
+  pages     = {21850--21858},
+  year      = {2025}
+}
+
+@inproceedings{yang2025safe,
+  title     = {Safe Online Convex Optimization with Heavy-Tailed Observation Noises},
+  author    = {Yang, Yunhao and Xue, Bo and Hao, Yunzhi and Li, Ying and Wan, Yuanyu},
+  booktitle = {Proceedings of the 39th AAAI Conference on Artificial Intelligence},
+  pages     = {22047--22055},
+  year      = {2025}
+}
+
+@inproceedings{cheng2026parametric,
+  title     = {Parametric Pareto Set Learning for Expensive Multi-Objective Optimization},
+  author    = {Cheng, Ji and Xue, Bo and Zhang, Qingfu},
+  booktitle = {Proceedings of the 40th AAAI Conference on Artificial Intelligence},
+  pages     = {to appear},
+  year      = {2026}
+}
+
+@inproceedings{cheng2026offline,
+  title     = {Offline Multi-Objective Bandits: From Logged Data to Pareto-Optimal Policies},
+  author    = {Cheng, Ji and Lai, Song and Yao, Shunyu and Xue, Bo},
+  booktitle = {Proceedings of the 40th AAAI Conference on Artificial Intelligence},
+  pages     = {to appear},
+  year      = {2026}
+}
+
+@inproceedings{xue2026beyond,
+  title     = {Beyond the Lower Bound: Bridging Regret Minimization and Best Arm Identification in Lexicographic Bandits},
+  author    = {Xue, Bo and Wan, Yuanyu and Lu, Zhichao and Zhang, Qingfu},
+  booktitle = {Proceedings of the 40th AAAI Conference on Artificial Intelligence},
+  pages     = {to appear},
+  year      = {2026}
+}
+
+@inproceedings{wang2023balance,
+  title     = {Balance Act: Mitigating Hubness in Cross-modal Retrieval with Query and Gallery Banks},
+  author    = {Wang, Yimu and Jian, Xiangru and Xue, Bo},
+  booktitle = {Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {10542--10567},
+  year      = {2023}
+}
+
+@inproceedings{xue2025multiobjective,
+  title     = {Multi-objective Linear Reinforcement Learning with Lexicographic Rewards},
+  author    = {Xue, Bo and Bu, Dake and Cheng, Ji and Wan, Yuanyu and Zhang, Qingfu},
+  booktitle = {Proceedings of the 42nd International Conference on Machine Learning},
+  pages     = {to appear},
+  year      = {2025}
+}
+
+@inproceedings{xue2020nearly,
+  title     = {Nearly Optimal Regret for Stochastic Linear Bandits with Heavy-Tailed Payoffs},
+  author    = {Xue, Bo and Wang, Guanghui and Wang, Yimu and Zhang, Lijun},
+  booktitle = {Proceedings of the 29th International Joint Conference on Artificial Intelligence},
+  pages     = {2936--2942},
+  year      = {2020}
+}
+
+@inproceedings{wang2021deep,
+  title     = {Deep Unified Cross-Modality Hashing by Pairwise Data Alignment},
+  author    = {Wang, Yimu and Xue, Bo and Cheng, Quan and Chen, Yuhui and Zhang, Lijun},
+  booktitle = {Proceedings of the 30th International Joint Conference on Artificial Intelligence},
+  pages     = {1129--1135},
+  year      = {2021}
+}
+
+@inproceedings{cheng2025multiobjective,
+  title     = {Multi-Objective Neural Bandits with Random Scalarization},
+  author    = {Cheng, Ji and Xue, Bo and Lu, Chengyu and Cui, Ziqiang and Zhang, Qingfu},
+  booktitle = {Proceedings of the 34th International Joint Conference on Artificial Intelligence},
+  pages     = {4914--4922},
+  year      = {2025}
+}
+
+@inproceedings{xue2025problem,
+  title     = {Problem-dependent Regret for Lexicographic Multi-Armed Bandits with Adversarial Corruptions},
+  author    = {Xue, Bo and Lin, Xi and Wan, Yuanyu and Zhang, Qingfu},
+  booktitle = {Proceedings of the 34th International Joint Conference on Artificial Intelligence},
+  pages     = {6776--6784},
+  year      = {2025}
+}
+
+@inproceedings{liu2026opinion,
+  title     = {Opinion Maximization in Social Networks: An Inverse Optimization Perspective},
+  author    = {Liu, Yilu and Xue, Bo and Yao, Yiming and Zhang, Qingfu},
+  booktitle = {Proceedings of the 35th International Joint Conference on Artificial Intelligence},
+  pages     = {to appear},
+  year      = {2026}
+}
+
+@inproceedings{xue2026safe,
+  title     = {Safe Multi-Objective Linear Bandits with Hierarchical Preferences},
+  author    = {Xue, Bo and He, Mengxia and Liu, Yilu and Cheng, Ji and Zhao, Zhe and Zhang, Qingfu},
+  booktitle = {Proceedings of the 35th International Joint Conference on Artificial Intelligence},
+  pages     = {to appear},
+  year      = {2026}
+}
+
+@article{wan2025optimal,
+  title   = {Optimal and Efficient Algorithms for Decentralized Online Convex Optimization},
+  author  = {Wan, Yuanyu and Wei, Tong and Xue, Bo and Song, Mingli and Zhang, Lijun},
+  journal = {Journal of Machine Learning Research},
+  volume  = {26},
+  number  = {135},
+  pages   = {1--43},
+  year    = {2025}
+}
+
+@article{xue2025lexicographic,
+  title   = {Lexicographic Lipschitz Bandits: New Algorithms and a Lower Bound},
+  author  = {Xue, Bo and Cheng, Ji and Liu, Fei and Wang, Yimu and Zhang, Lijun and Zhang, Qingfu},
+  journal = {Journal of Machine Learning Research},
+  pages   = {to appear},
+  year    = {2025}
+}
+
+@inproceedings{wang2025dream,
+  title     = {{DREAM}: Improving Video-Text Retrieval Through Relevance-Based Augmentation Using Large Foundation Models},
+  author    = {Wang, Yimu and Yuan, Shuai and Xue, Bo and Jian, Xiangru and Pang, Wei and Wang, Mushi and Yu, Ning},
+  booktitle = {Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  pages     = {3037--3056},
+  year      = {2025}
+}
+
+@inproceedings{xue2023efficient,
+  title     = {Efficient Algorithms for Generalized Linear Bandits with Heavy-tailed Rewards},
+  author    = {Xue, Bo and Wang, Yimu and Wan, Yuanyu and Yi, Jinfeng and Zhang, Lijun},
+  booktitle = {Advances in Neural Information Processing Systems 36},
+  pages     = {70880--70891},
+  year      = {2023}
+}
+
+@inproceedings{zhang2023hypervolume,
+  title     = {Hypervolume Maximization: A Geometric View of Pareto Set Learning},
+  author    = {Zhang, Xiaoyuan and Lin, Xi and Xue, Bo and Chen, Yifan and Zhang, Qingfu},
+  booktitle = {Advances in Neural Information Processing Systems 36},
+  pages     = {38902--38929},
+  year      = {2023}
+}
+
+@inproceedings{zhao2025tsmof,
+  title     = {{TS-MOF}: Two-Stage Multi-Objective Fine-tuning for Long-Tailed Recognition},
+  author    = {Zhao, Zhe and Gong, Zhiheng and Wang, Pengkun and Wen, HaiBin and Guo, Cankun and Xue, Bo and Lin, Xi and Wang, Zhenkun and Zhang, Qingfu and Wang, Yang},
+  booktitle = {Advances in Neural Information Processing Systems 38},
+  pages     = {to appear},
+  year      = {2025}
+}
+
+@inproceedings{wang2020piecewise,
+  title     = {Piecewise Hashing: A Deep Hashing Method for Large-Scale Fine-Grained Search},
+  author    = {Wang, Yimu and Wei, Xiu-Shen and Xue, Bo and Zhang, Lijun},
+  booktitle = {Proceedings of the 3rd Chinese Conference on Pattern Recognition and Computer Vision},
+  pages     = {432--444},
+  year      = {2020}
+}
+
+@article{cheng2025parametric,
+  title   = {Parametric Pareto Set Learning: Amortizing Multi-Objective Optimization with Parameters},
+  author  = {Cheng, Ji and Lin, Xi and Xue, Bo and Zhang, Qingfu},
+  journal = {IEEE Transactions on Evolutionary Computation},
+  pages   = {to appear},
+  year    = {2025}
+}
+

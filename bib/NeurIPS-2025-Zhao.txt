@@ -1,0 +1,7 @@
+@inproceedings{zhao2025tsmof,
+  title     = {{TS-MOF}: Two-Stage Multi-Objective Fine-tuning for Long-Tailed Recognition},
+  author    = {Zhao, Zhe and Gong, Zhiheng and Wang, Pengkun and Wen, HaiBin and Guo, Cankun and Xue, Bo and Lin, Xi and Wang, Zhenkun and Zhang, Qingfu and Wang, Yang},
+  booktitle = {Advances in Neural Information Processing Systems 38},
+  pages     = {5224 -- 5252},
+  year      = {2025}
+}

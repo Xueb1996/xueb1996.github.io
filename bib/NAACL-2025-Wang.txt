@@ -1,0 +1,7 @@
+@inproceedings{wang2025dream,
+  title     = {{DREAM}: Improving Video-Text Retrieval Through Relevance-Based Augmentation Using Large Foundation Models},
+  author    = {Wang, Yimu and Yuan, Shuai and Xue, Bo and Jian, Xiangru and Pang, Wei and Wang, Mushi and Yu, Ning},
+  booktitle = {Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  pages     = {3037--3056},
+  year      = {2025}
+}

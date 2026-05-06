@@ -1,0 +1,7 @@
+@inproceedings{wang2021deep,
+  title     = {Deep Unified Cross-Modality Hashing by Pairwise Data Alignment},
+  author    = {Wang, Yimu and Xue, Bo and Cheng, Quan and Chen, Yuhui and Zhang, Lijun},
+  booktitle = {Proceedings of the 30th International Joint Conference on Artificial Intelligence},
+  pages     = {1129--1135},
+  year      = {2021}
+}

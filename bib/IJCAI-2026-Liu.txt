@@ -1,0 +1,7 @@
+@inproceedings{liu2026opinion,
+  title     = {Opinion Maximization in Social Networks: An Inverse Optimization Perspective},
+  author    = {Liu, Yilu and Xue, Bo and Yao, Yiming and Zhang, Qingfu},
+  booktitle = {Proceedings of the 35th International Joint Conference on Artificial Intelligence},
+  pages     = {to appear},
+  year      = {2026}
+}

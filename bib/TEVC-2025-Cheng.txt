@@ -1,0 +1,7 @@
+@article{cheng2025parametric,
+  title   = {Parametric Pareto Set Learning: Amortizing Multi-Objective Optimization with Parameters},
+  author  = {Cheng, Ji and Lin, Xi and Xue, Bo and Zhang, Qingfu},
+  journal = {IEEE Transactions on Evolutionary Computation},
+  pages   = {to appear},
+  year    = {2025}
+}

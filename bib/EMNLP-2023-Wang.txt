@@ -1,0 +1,7 @@
+@inproceedings{wang2023balance,
+  title     = {Balance Act: Mitigating Hubness in Cross-modal Retrieval with Query and Gallery Banks},
+  author    = {Wang, Yimu and Jian, Xiangru and Xue, Bo},
+  booktitle = {Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {10542--10567},
+  year      = {2023}
+}

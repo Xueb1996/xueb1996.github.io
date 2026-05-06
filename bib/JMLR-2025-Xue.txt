@@ -1,0 +1,9 @@
+@article{xue2025lexicographic,
+  title   = {Lexicographic Lipschitz Bandits: New Algorithms and a Lower Bound},
+  author  = {Xue, Bo and Cheng, Ji and Liu, Fei and Wang, Yimu and Zhang, Lijun and Zhang, Qingfu},
+  journal = {Journal of Machine Learning Research},
+  volume  = {26},
+  number  = {223},
+  pages   = {1--56},
+  year    = {2025}
+}

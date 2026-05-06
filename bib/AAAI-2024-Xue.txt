@@ -1,0 +1,7 @@
+@inproceedings{xue2024multiobjective,
+  title     = {Multiobjective Lipschitz Bandits under Lexicographic Ordering},
+  author    = {Xue, Bo and Cheng, Ji and Liu, Fei and Wang, Yimu and Zhang, Qingfu},
+  booktitle = {Proceedings of the 38th AAAI Conference on Artificial Intelligence},
+  pages     = {16238--16246},
+  year      = {2024}
+}

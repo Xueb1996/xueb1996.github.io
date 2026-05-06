@@ -1,0 +1,7 @@
+@inproceedings{xue2025problem,
+  title     = {Problem-dependent Regret for Lexicographic Multi-Armed Bandits with Adversarial Corruptions},
+  author    = {Xue, Bo and Lin, Xi and Wan, Yuanyu and Zhang, Qingfu},
+  booktitle = {Proceedings of the 34th International Joint Conference on Artificial Intelligence},
+  pages     = {6776--6784},
+  year      = {2025}
+}
